@@ -1,0 +1,5 @@
+0 Trinkflaschen
+1 Schuhe
+2 T-Shirts
+3 Federtaschen
+4 Sonstiges
