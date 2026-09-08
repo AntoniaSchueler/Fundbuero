@@ -1,0 +1,5 @@
+streamlit>=1.44,<2
+tensorflow==2.15.1
+numpy>=1.26,<2
+Pillow>=10,<12
+supabase>=2.0,<3
